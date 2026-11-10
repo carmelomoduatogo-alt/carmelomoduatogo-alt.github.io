@@ -7,7 +7,7 @@
 | W1.1 | **Section 1: HTML Fundamentals** |A | Describe the basic structure of an HTML document, including the <!DOCTYPE> declaration. |
 | W1.2 |  |A | Understand the distinction between block-level and inline elements. |
 | W1.3 |  |B | Identify and correctly use basic HTML entities. |
-| W1.4 |  |C | Explain the importance of character encoding. |
+| W1.4 |  |D | Explain the importance of character encoding. |
 | W1.5 |  |C | Utilize comments to document HTML code. |
 | W1.6 |  |B | Demonstrate the use of basic tags (html, head, title, body). |
 | W2.1 | **Section 2: Text Formatting and Structure** |A | Implement text formatting tags such as strong, em, u, del, sup, sub, and mark. |
