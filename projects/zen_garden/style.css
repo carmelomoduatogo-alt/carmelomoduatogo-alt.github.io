@@ -5,3 +5,23 @@
 
   All of your CSS goes in this file.
 */
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Firjar:wght@100..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+	background-color: #c9b290;
+	font-family:"Cormorant Garamond", serif ;
+}
+#disclaimer{
+	background-color:#5b7c99;
+}
+
+.submenu {
+    display: none;
+}
+
+.menu-item:hover .submenu,
+.menu-item:focus-within .submenu {
+    display: block;
+}
+
